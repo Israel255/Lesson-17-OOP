@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\עבודות\Lesson 17 OOP\Lesson _17_OOP\Lesson _17_OOP\bin\Debug\Lesson _17_OOP.exe.config
+C:\Users\USER\Desktop\עבודות\Lesson 17 OOP\Lesson _17_OOP\Lesson _17_OOP\bin\Debug\Lesson _17_OOP.exe
+C:\Users\USER\Desktop\עבודות\Lesson 17 OOP\Lesson _17_OOP\Lesson _17_OOP\bin\Debug\Lesson _17_OOP.pdb
+C:\Users\USER\Desktop\עבודות\Lesson 17 OOP\Lesson _17_OOP\Lesson _17_OOP\obj\Debug\Lesson _17_OOP.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\Lesson 17 OOP\Lesson _17_OOP\Lesson _17_OOP\obj\Debug\Lesson _17_OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\Lesson 17 OOP\Lesson _17_OOP\Lesson _17_OOP\obj\Debug\Lesson _17_OOP.exe
+C:\Users\USER\Desktop\עבודות\Lesson 17 OOP\Lesson _17_OOP\Lesson _17_OOP\obj\Debug\Lesson _17_OOP.pdb
